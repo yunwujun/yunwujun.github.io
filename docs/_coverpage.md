@@ -1,4 +1,4 @@
-![alt 属性文本](https://github.com/huooomu/huooomu.github.io/blob/main/Yin_yang.png?raw=true)
+![阴阳](/img/Yin_yang.svg)
 # 简道
 ## 妙言至径，大道至简
 [资源站点](http://101.42.233.219:5244)
