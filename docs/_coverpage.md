@@ -1,4 +1,4 @@
-<img src="\img\Yin_yang.svg" width = "300" height = "300" alt="图片名称" align=center />
+<img src="\img\Yin_yang.svg" width = "300" height = "300" alt="阴阳" align=center />
 
 # 简道
 ## 妙言至径，大道至简
