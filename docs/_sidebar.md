@@ -1,6 +1,0 @@
-- 前言
-    - [自述](/README.md)
-- 人物
-  - [三清道祖](post/zh-Hans/人物/三清.md)
-    - [张至顺](post/zh-Hans/人物/张至顺)
-    - [张至顺](post/zh-Hans/人物/张至顺)
